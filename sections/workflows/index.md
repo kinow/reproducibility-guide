@@ -25,5 +25,16 @@ Fortunately, most researchers require similar operations, so we can employ work 
         <h3>Short work flow for R reports</h3>
         <p>Tools: Markdown, R/R studio, rmarkdown (R package), pandoc, knitr </p>
         <p><a href="{{ site.baseurl }}/sections/workflows/workflow1" class="btn btn-primary" role="button">More</a></p>
+      </div>
     </div>
   </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="{{ site.baseurl }}/assets/img/workflow01.png" alt="workflowDiagram">
+      <div class="caption">
+        <h3>Code writing guidelines</h3>
+        <p><a href="{{ site.baseurl }}/sections/workflows/codeWritingGuidelines" class="btn btn-primary" role="button">More</a></p>
+      </div>
+    </div>
+  </div>
+</div>
